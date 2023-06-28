@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "epwshiftr"]
 	path = epwshiftr
 	url = https://github.com/ideas-lab-nus/epwshiftr
-	shallow = true
-	registered = true
